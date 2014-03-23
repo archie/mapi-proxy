@@ -1,0 +1,10 @@
+{
+	"name" : "mapi-proxy",
+	"description" : "A reverse proxy that is able to intercept certain calls",
+	"version" : "0.0.1",
+	"private" : true,
+	"dependencies" : {
+		"colors" : "0.6.x",
+		"optimist" : "0.3.5"
+	}
+}
